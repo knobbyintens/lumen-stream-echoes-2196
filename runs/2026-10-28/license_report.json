@@ -1,0 +1,9 @@
+{
+  "release": "Stream Wave 2",
+  "datasets": [
+    {"name": "Lumen-Stream-Code", "license": "ODC-BY-1.0", "status": "approved"},
+    {"name": "Lumen-Stream-Syn", "license": "other", "status": "escalated"},
+    {"name": "Lumen-Stream-Mix", "license": "Apache-2.0", "status": "approved"}
+  ],
+  "generated_by": "stream-audit-bot"
+}

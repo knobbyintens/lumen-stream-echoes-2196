@@ -1,0 +1,9 @@
+{
+  "release": "Stream Wave 2",
+  "updated_at": "2026-10-30T12:00:00Z",
+  "datasets": [
+    {"name": "Lumen-Stream-Code", "kind": "raw-code-corpus", "license": "ODC-BY-1.0", "status": "approved", "owner": "data-engineering"},
+    {"name": "Lumen-Stream-Syn", "kind": "synthetic-instructions", "license": "other", "status": "escalated", "owner": "synthesis-team"},
+    {"name": "Lumen-Stream-Mix", "kind": "blended-sample-pack", "license": "Apache-2.0", "status": "approved", "owner": "release-engineering"}
+  ]
+}

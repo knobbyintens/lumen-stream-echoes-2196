@@ -1,2 +1,4 @@
-# lumen-stream-echoes-2196
-Collected community copies, archival snapshots and prior audit runs for the Lumen Stream releases.
+# Lumen release audit runs
+
+Archived outputs from automated licence-audit runs for the Stream releases.
+These reports were accepted by the reviewer and are kept for reference.
